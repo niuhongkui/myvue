@@ -74,7 +74,7 @@ export default {
 }
 
 .aside {
-  background-color: #e3e3e3;
+  background-color: #fff;
   height: calc(100vh - 70px);
   width: 200px;
   overflow: auto;
